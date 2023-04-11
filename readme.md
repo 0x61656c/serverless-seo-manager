@@ -1,4 +1,4 @@
-# Meta Tag Updater for Dynamic Webpages
+# Meta Tags for Dynamic Webpages
 
 This project provides a simple yet powerful solution to dynamically update the meta tags of your webpages. The code snippet is a Cloudflare Worker script that listens for incoming requests and updates the meta tags of your HTML files on-the-fly.
 
